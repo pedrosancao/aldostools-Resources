@@ -14,7 +14,9 @@
  
 * [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 10,300 covers for PS3 retail games, PSN/PKG & homebrews
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
-
+* [3D Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS000000003D.pkg) - 9,553 covers for PSX and PS2 in 3D perspective
+* [Covers for PSP Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000PSP.pkg) - 4,369 covers for PSP
+  
 ### Additional resources for webMAN MOD
 🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg) [ [SRC](https://github.com/crystalct/RetroArch_PSX_CE) ]<br>
 🚀 [Launchers](https://github.com/aldostools/Resources/releases/tag/Launchers) & [Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
@@ -23,7 +25,7 @@
 💻 [ps3netsrv](https://github.com/aldostools/ps3netsrv) for [[Windows](https://github.com/aldostools/ps3netsrv/releases/download/20250126/ps3netsrv_20250126_linux.zip)] [[Linux](https://github.com/aldostools/ps3netsrv/releases/download/20250126/ps3netsrv_20250126_linux.zip)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
 🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]<br>
 📘 [webMAN MOD Documentation](https://github.com/aldostools/webMAN-MOD/wiki) [ [wiki](https://github.com/aldostools/webMAN-MOD/wiki/%E2%80%A2-License) ]<br>
-💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)<br>
+💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools) or [ko-fi.com/aldostools](https://ko-fi.com/aldostools)<br>
 
 ### Backup Managers for PS3
 * [webMAN MOD](https://github.com/aldostools/webMAN-MOD/releases)
@@ -50,7 +52,9 @@
 ### Firmware Tools for PS3
 * [ps3xploit.me](https://ps3xploit.me/) - PS3HEN - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.92) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.92
 * [ps3toolset.com](http://www.ps3toolset.com/) - BGToolset - Set of online tools to enable CFW installation on PS3 4.75-4.92 CEX/DEX/OFW/HFW/CFW
+* [BadHTAB (fork)](https://github.com/esc0rtd3w/BadHTAB) / [BadHTAB](https://github.com/aomsin2526/BadHTAB) / [BadWDSD](https://github.com/aomsin2526/BadWDSD) + [qCFW](https://github.com/aomsin2526/Cobra-PS3-qCFW)
 * [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
+* [Flash Dumper](https://aldostools.github.io/flash-dumper)
 * [Auto HEN](https://aldostools.github.io/install-ps3hen) - Alternative installer for Homebrew Enabler by Coro [[Mirror](https://ps3addict.github.io/alternate)] [[lmn7's Auto HEN](https://ps3addict.github.io/autohen)]
 * [Auto HEN SCZ](aldostools.github.io/henauto492) - Alternative installer for Homebrew Enabler with Multifix by Videogames SCZ [[Auto HEN SCZ 4.91](https://videogamesscz.github.io/henauto491)]
 
@@ -106,6 +110,6 @@
 * [GoldHEN](https://github.com/goldhen) - Advanced HEN exploit for PS4 5.05, 6.71-6.72, 9.00, 9.60, 10.00-10.01, 10.50, 10.70-10.71, 11.00 by [SiSTR0](https://github.com/SiSTR0)
 * [PS4-HEN-PPPwn-VTX](https://github.com/EchoStretch/ps4-hen-vtx/releases) - HEN exploit for PS4 7.55 to 11.00 by [EchoStretch](https://github.com/EchoStretch)
 * [etaHEN](https://github.com/LightningMods/etaHEN) - HEN exploit for PS5 by [LightningMods](https://github.com/LightningMods) / [ItemzFlow](https://github.com/LightningMods/itemzflow) for PS4 & PS5
-* [ps5-payload-dev](https://github.com/orgs/ps5-payload-dev/repositories) - PS5 payloads by [John Törnblom](https://github.com/john-tornblom)
+* [ps5-payload-dev](https://github.com/orgs/ps5-payload-dev/repositories) - PS5 payloads by [John Törnblom](https://github.com/john-tornblom?tab=repositories)
 * [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
-  [es7in1.site](https://es7in1.site) | [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io) | [CVE Test](https://debvt.github.io/Wm)
+[lightningmods.github.io](https://lightningmods.github.io/exploits/PS5/IPV6)  [es7in1.site](https://es7in1.site) | [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io) | [CVE Test](https://debvt.github.io/Wm)
